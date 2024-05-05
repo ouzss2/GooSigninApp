@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "934503979697",
+    "firebase_url": "https://glsi-feeba-default-rtdb.firebaseio.com",
+    "project_id": "glsi-feeba",
+    "storage_bucket": "glsi-feeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934503979697:android:e1c5e0a4019e9dd928a090",
+        "android_client_info": {
+          "package_name": "com.example.goosigninapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934503979697-trd10t5t9t8u3jcccfab1ik9hp1b2pln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-aTYiEhcyS-3ZAWyRtJipnltDK2cM61M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934503979697-trd10t5t9t8u3jcccfab1ik9hp1b2pln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934503979697:android:98c41e9c2f86d3e728a090",
+        "android_client_info": {
+          "package_name": "com.example.tp_autocompletetext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934503979697-trd10t5t9t8u3jcccfab1ik9hp1b2pln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-aTYiEhcyS-3ZAWyRtJipnltDK2cM61M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934503979697-trd10t5t9t8u3jcccfab1ik9hp1b2pln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
